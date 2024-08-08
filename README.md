@@ -122,8 +122,8 @@ personal projects aren't uploaded on here, will add something significant whenev
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gallevin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-gallevin-blue"></a>
-<a href="https://twitter.com/gkodkod"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gkodkod-blue"></a>
-
+<a href="https://twitter.com/gkodkod"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gkodkod-blue"></a><a href="https://ko-fi.com/gallevin"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
 <!--
 https://stackoverflow.com/users/4301478/kodkod-gates?tab=profile
 
