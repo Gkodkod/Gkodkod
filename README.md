@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) [![views](https://camo.githubusercontent.com/3e3e7747efe49818fe10a31489748c167238ce43b5fd1cde25453f635a1a3251/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d586f6e636961267374796c653d666f722d7468652d626164676526636f6c6f723d6c6967687467726579 "GitHub profile views")](https://github.com/Gkodkod/Simple-View-Counter)
 
-[GKodkod](/Gkodkod/Gkodkod)/README.md
-
-
-![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social)
+<!--
 ![Total Forks](https://img.shields.io/github/forks/:Gkodkod?style=social)
-![GitHub forks](https://img.shields.io/github/forks/:Gkodkod)
-![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social)
+![GitHub forks](https://img.shields.io/github/forks/:Gkodkod) 
+![GitHub forks](https://img.shields.io/github/forks/Gkodkod/:repo)
 
- [![total stars](https://camo.githubusercontent.com/f690bc14859dff2d5ef30e2dc70a1e8d3990b51adf0f3d5e5ff0a0dd1a4eb312/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d7374617226686f73743d666f726d61747465642d64796e616d69632d6261646765732e6865726f6b756170702e636f6d26666f726d61747465723d6d6574726963267374796c653d666f722d7468652d626164676526636f6c6f723d353539363063266c6162656c436f6c6f723d343838323037266c6162656c3d73746172732671756572793d242e73746172732675726c3d68747470733a2f2f6170692e6769746875622d737461722d636f756e7465722e776f726b6572732e6465762f757365722f586f6e636961 "Total stars on GitHub")](https://github.com/Gkodkod?tab=repositories&sort=stargazers)[![total stars](https://camo.githubusercontent.com/2dac698bd8a97f83ebbe8a3f9bd4ab098aef0f6c161783ab06ecb263c175f22c/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d666f726b26686f73743d666f726d61747465642d64796e616d69632d6261646765732e6865726f6b756170702e636f6d26666f726d61747465723d6d6574726963267374796c653d666f722d7468652d626164676526636f6c6f723d666630303133266c6162656c436f6c6f723d616531323036266c6162656c3d666f726b732671756572793d242e666f726b732675726c3d68747470733a2f2f6170692e6769746875622d737461722d636f756e7465722e776f726b6572732e6465762f757365722f586f6e636961 "Total forks on GitHub") ](https://github.com/Gkodkod?tab=repositories&sort=stargazers)[![followers](https://camo.githubusercontent.com/4f76003c20d997e2da0e5cec917317531419a3d888747d1583f5c79339726425/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f666f6c6c6f776572732f586f6e6369613f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465 "Follow me on Github")](https://github.com/Gkodkod?tab=followers) [![views](https://camo.githubusercontent.com/3e3e7747efe49818fe10a31489748c167238ce43b5fd1cde25453f635a1a3251/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d586f6e636961267374796c653d666f722d7468652d626164676526636f6c6f723d6c6967687467726579 "GitHub profile views")](https://github.com/Gkodkod/Simple-View-Counter)
+
+
+
+
+ [![total stars](https://camo.githubusercontent.com/f690bc14859dff2d5ef30e2dc70a1e8d3990b51adf0f3d5e5ff0a0dd1a4eb312/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d7374617226686f73743d666f726d61747465642d64796e616d69632d6261646765732e6865726f6b756170702e636f6d26666f726d61747465723d6d6574726963267374796c653d666f722d7468652d626164676526636f6c6f723d353539363063266c6162656c436f6c6f723d343838323037266c6162656c3d73746172732671756572793d242e73746172732675726c3d68747470733a2f2f6170692e6769746875622d737461722d636f756e7465722e776f726b6572732e6465762f757365722f586f6e636961 "Total stars on GitHub")](https://github.com/Gkodkod?tab=repositories&sort=stargazers)[![total stars](https://camo.githubusercontent.com/2dac698bd8a97f83ebbe8a3f9bd4ab098aef0f6c161783ab06ecb263c175f22c/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d666f726b26686f73743d666f726d61747465642d64796e616d69632d6261646765732e6865726f6b756170702e636f6d26666f726d61747465723d6d6574726963267374796c653d666f722d7468652d626164676526636f6c6f723d666630303133266c6162656c436f6c6f723d616531323036266c6162656c3d666f726b732671756572793d242e666f726b732675726c3d68747470733a2f2f6170692e6769746875622d737461722d636f756e7465722e776f726b6572732e6465762f757365722f586f6e636961 "Total forks on GitHub") ](https://github.com/Gkodkod?tab=repositories&sort=stargazers)[![followers](https://camo.githubusercontent.com/4f76003c20d997e2da0e5cec917317531419a3d888747d1583f5c79339726425/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f666f6c6c6f776572732f586f6e6369613f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465 "Follow me on Github")](https://github.com/Gkodkod?tab=followers) 
+--> 
+ 
 
 [![github contribution grid snake animation](/output/github-contribution-grid-snake-dark.svg)](/output/github-contribution-grid-snake-dark.svg)
 
@@ -36,7 +40,8 @@ Here are some ideas to get you started:
 
 [](#languages)
 
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Spring boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) [![java](https://camo.githubusercontent.com/43fdbaf41c5db92c69f27e511914c46c48b3a8ab37c11e16ce2221e0671ac0c2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f6a6176612d626c61636b2e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](https://camo.githubusercontent.com/43fdbaf41c5db92c69f27e511914c46c48b3a8ab37c11e16ce2221e0671ac0c2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f6a6176612d626c61636b2e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265) ![kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![GNU bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) [![go](https://camo.githubusercontent.com/604362f5509c56abd71eab4292164f3fafb8cdd2e8cc197bba7040a73d498354/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d626c61636b3f6c6f676f3d676f266c6f676f436f6c6f723d626c7565267374796c653d666c61742d737175617265)](https://camo.githubusercontent.com/604362f5509c56abd71eab4292164f3fafb8cdd2e8cc197bba7040a73d498354/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d626c61636b3f6c6f676f3d676f266c6f676f436f6c6f723d626c7565267374796c653d666c61742d737175617265) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Spring boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript)
+![GO](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=GO) ![kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![GNU bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database
 
@@ -82,14 +87,25 @@ Here are some ideas to get you started:
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Circle CI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=Cloud%20Foundry&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kurbernets](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-⚡ GitHub Stats
+ GitHub Stats
 --------------
+### ⚡ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/Gkodkod">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gkodkod&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+<!--
 [](#-github-stats)
 
 [![](https://camo.githubusercontent.com/efe0094a1682dad9e4c35076355d8c36dacb583892406f6cd461caae0a934d09/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d586f6e63696126686964655f626f726465723d74727565267468656d653d6461726b)](https://camo.githubusercontent.com/efe0094a1682dad9e4c35076355d8c36dacb583892406f6cd461caae0a934d09/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d586f6e63696126686964655f626f726465723d74727565267468656d653d6461726b) [![](https://camo.githubusercontent.com/53d7f7caaf2ecadc30661e75611b1ec80d481aa692fb1ed4fc618f2eeeb71522/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d586f6e63696126686964655f7469746c653d7472756526686964655f626f726465723d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323126686964655f72616e6b3d747275652669636f6e5f636f6c6f723d666138623030253232267468656d653d6461726b)](https://camo.githubusercontent.com/53d7f7caaf2ecadc30661e75611b1ec80d481aa692fb1ed4fc618f2eeeb71522/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d586f6e63696126686964655f7469746c653d7472756526686964655f626f726465723d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323126686964655f72616e6b3d747275652669636f6e5f636f6c6f723d666138623030253232267468656d653d6461726b) [![](https://camo.githubusercontent.com/b06c14916ca2affc342bf72872e31b6aa27ccb11f4c16b71d0d7c312e1901995/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d586f6e63696126686964653d68746d6c26686964655f7469746c653d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d6461726b)](https://camo.githubusercontent.com/b06c14916ca2affc342bf72872e31b6aa27ccb11f4c16b71d0d7c312e1901995/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d586f6e63696126686964653d68746d6c26686964655f7469746c653d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d6461726b)
 
 [![trophy](https://camo.githubusercontent.com/90ad74ce4541f243deea68568d1373189bcac2393b754160455f963c062ce122/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d586f6e636961267468656d653d6f6e656461726b26636f6c756d6e3d2d31)](https://camo.githubusercontent.com/90ad74ce4541f243deea68568d1373189bcac2393b754160455f963c062ce122/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d586f6e636961267468656d653d6f6e656461726b26636f6c756d6e3d2d31)
+-->
+
 
 ⭐ My Projects
 -------------
@@ -101,3 +117,19 @@ Here are some ideas to get you started:
 [](#to-be-updated)
 
 personal projects aren't uploaded on here, will add something significant whenever
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gallevin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-gallevin-blue"></a>
+<a href="https://twitter.com/gkodkod"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gkodkod-blue"></a>
+
+<!--
+https://stackoverflow.com/users/4301478/kodkod-gates?tab=profile
+
+<a href="https://t.me/skyporker_channel"><img align="right" alt="Telegram channel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40skyporker_channel&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dskyporker_channel&longCache=true"/></a>
+
+<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
+<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+</p>
+-->
