@@ -25,6 +25,7 @@ I'm **Gal Levinshtein** ([@Gkodkod](https://gkodkodd.github.io/gkodkodblog/blog.
 ---
 
 ![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) ![views](https://img.shields.io/github/views/Gkodkod) !["GitHub profile views"](https://github.com/Gkodkod/Simple-View-Counter)
+![](https://komarev.com/ghpvc/?username=Gkodkod&color=brightgreen)
 
 [![github contribution grid snake animation](/output/github-contribution-grid-snake-dark.svg)](/output/github-contribution-grid-snake-dark.svg)
 
