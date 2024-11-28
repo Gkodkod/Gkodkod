@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👩‍💻 Who am I?
+
+I'm **Gal Levinshtein** ([@Gkodkod](https://r0mymendez.github.io/romymendezblog/blog.html)), currently working as a Data Cloud Architect and a professor at the **University of Belgrano**. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels.
+
+![GitHub Followers](https://img.shields.io/github/followers/r0mymendez?style=social)
+![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social)
+
+---
+
 ![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) [![views](https://camo.githubusercontent.com/3e3e7747efe49818fe10a31489748c167238ce43b5fd1cde25453f635a1a3251/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d586f6e636961267374796c653d666f722d7468652d626164676526636f6c6f723d6c6967687467726579 "GitHub profile views")](https://github.com/Gkodkod/Simple-View-Counter)
 
 [![github contribution grid snake animation](/output/github-contribution-grid-snake-dark.svg)](/output/github-contribution-grid-snake-dark.svg)
@@ -73,7 +83,7 @@ Here are some ideas to get you started:
 
 [](#cloud)
 
-![AMAZON AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Circle CI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=Cloud%20Foundry&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kurbernets](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Circle CI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=Cloud%20Foundry&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kurbernets](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ⭐ GitHub Analytics
 <p align="center">
