@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 Who am I?
 
-I'm **Gal Levinshtein** ([@Gkodkod](https://r0mymendez.github.io/romymendezblog/blog.html)), currently working as a Data Cloud Architect and a professor at the **University of Belgrano**. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels.
+I'm **Gal Levinshtein** ([@Gkodkod](https://gkodkodd.github.io/gkodkodblog/blog.html)), currently working as a Data Cloud Architect and a professor at the **University of MIT**. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels.
 
 ![GitHub Followers](https://img.shields.io/github/followers/r0mymendez?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social)
 
 ---
 
-![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) [![views](https://camo.githubusercontent.com/3e3e7747efe49818fe10a31489748c167238ce43b5fd1cde25453f635a1a3251/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d586f6e636961267374796c653d666f722d7468652d626164676526636f6c6f723d6c6967687467726579 "GitHub profile views")](https://github.com/Gkodkod/Simple-View-Counter)
+![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) ![views](https://img.shields.io/github/views/Gkodkod) !["GitHub profile views"](https://github.com/Gkodkod/Simple-View-Counter)
 
 [![github contribution grid snake animation](/output/github-contribution-grid-snake-dark.svg)](/output/github-contribution-grid-snake-dark.svg)
 
