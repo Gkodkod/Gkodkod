@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 I'm **Gal Levinshtein** ([@Gkodkod](https://gkodkod.github.io/gkodkodblog/blog.html)), currently working as a Data Cloud Architect, a mentor and a adjunct professor at the **University of MIT**. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels. 
 
 ![GitHub Followers](https://img.shields.io/github/followers/r0mymendez?style=social)
-![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social)
+![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/jquery) ![GitHub profile views](https://komarev.com/ghpvc/?username=Gkodkod&color=brightgreen)
 
 ---
-
-![Total Stars](https://img.shields.io/github/stars/Gkodkod?style=social) ![Total Followers](https://img.shields.io/github/followers/Gkodkod?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/videostore) ![GitHub profile views](https://komarev.com/ghpvc/?username=Gkodkod&color=brightgreen)
 
 [![github contribution grid snake animation](/output/github-contribution-grid-snake-dark.svg)](/output/github-contribution-grid-snake-dark.svg)
 
