@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 Who am I?
 
-I'm **Gal Levinshtein** ([@Gkodkod](https://gkodkod.github.io/gkodkodblog/blog.html)), currently working as a Data Cloud Architect. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels. 
+I'm **Gal Levinshtein** ([@Gkodkod](https://gkodkod.github.io/gkodkodblog/blog.html)), currently working as a Lead Engineer / Data Cloud Architect. I'm passionate about technology 🚀 and actively involved in social projects 🤝. If you're looking for collaboration on a specific project or need guidance for embarking on a new technological adventure, feel free to reach out to me through any of my social channels. 
 
 ![GitHub Followers](https://img.shields.io/github/followers/r0mymendez?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/r0mymendez?style=social) ![GitHub Created At](https://img.shields.io/github/created-at/Gkodkod/jquery) ![GitHub profile views](https://komarev.com/ghpvc/?username=Gkodkod&color=brightgreen)
